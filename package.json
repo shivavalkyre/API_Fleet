@@ -23,11 +23,7 @@
     "moment-timezone": "^0.5.40",
     "mysql": "^2.18.1",
     "mysql2": "^3.0.1",
-<<<<<<< HEAD
-    "node-fetch": "^2.6.11",
-=======
     "node-fetch": "^3.3.1",
->>>>>>> 34d963f2d7f2a58092980700006bc75ea308372d
     "nodemon": "^2.0.20",
     "path": "^0.12.7",
     "sequelize": "^6.28.0",
