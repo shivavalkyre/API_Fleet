@@ -3,7 +3,7 @@ var express = require ('express');
  // Init express router
 var router = express.Router();
 var User = require('../controllers/user.js')
-var Devices = require('../controllers/device')
+var Devices = require('../controllers/device.js')
 var Auth = require('../controllers/auth.js')
 
 
