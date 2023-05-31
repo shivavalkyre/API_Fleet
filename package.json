@@ -8,6 +8,7 @@
     "start": "nodemon index.js"
   },
   "author": "syerif",
+  "type": "module",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.4.0",
