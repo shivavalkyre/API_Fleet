@@ -21,3 +21,7 @@
 {"level":"debug","message":"\n31 May 2023 17:18:34 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
 {"level":"debug","message":"31 May 2023 17:18:34 - [ W A K E   U P ] | RUN AT PATH: /api/pattern, PORT: 3002"}
 {"level":"debug","message":"\n31 May 2023 17:18:34 - [ DATABASE U P ] | STARTING 'db_fleet'"}
+{"level":"debug","message":"\n31 May 2023 17:28:48 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"31 May 2023 17:28:48 - [ W A K E   U P ] | RUN AT PATH: /api/pattern, PORT: 3002"}
+{"level":"debug","message":"\n31 May 2023 17:28:48 - [ DATABASE U P ] | STARTING 'db_fleet'"}
+{"level":"debug","message":"\n31 May 2023 17:33:18 - [ RESULT ] | QUERING [\n  {\n    id: 1,\n    username: 'admin',\n    password: 'admin',\n    level: 'administrator',\n    createdAt: null,\n    updatedAt: null\n  }\n]"}

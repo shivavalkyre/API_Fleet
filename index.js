@@ -5,6 +5,7 @@ var cors = require('cors');
 var futil = require('./config/utility.js');
 var con = require ('./config/database.js');
 var routes = require('./routes/index.js')
+var devices = require('./controllers/device.js')
 require('dotenv').config();
 
 var app = express()
@@ -34,5 +35,10 @@ var server = app.listen(process.env.SERVER_PORT, function () {
     } catch (error) {
         futil.logger.debug('\n' + futil.shtm() + '- [ DATABASE ERROR] | STARTING ' + util.inspect(error));
     }
+
+    const intervalId = setInterval(() => {
+        // console.log('Interval executed!');
+       devices.LogDevices()
+      }, 1000);
 
 });

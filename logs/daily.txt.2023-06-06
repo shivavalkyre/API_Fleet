@@ -1,0 +1,111 @@
+{"level":"debug","message":"\n06 Jun 2023 13:33:56 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 Jun 2023 13:33:56 - [ W A K E   U P ] | RUN AT PATH: /api/pattern, PORT: 3002"}
+{"level":"debug","message":"\n06 Jun 2023 13:33:56 - [ DATABASE U P ] | STARTING 'db_fleet'"}
+{"level":"debug","message":"\n06 Jun 2023 13:43:59 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 Jun 2023 13:43:59 - [ W A K E   U P ] | RUN AT PATH: /api/pattern, PORT: 3002"}
+{"level":"debug","message":"\n06 Jun 2023 13:43:59 - [ DATABASE U P ] | STARTING 'db_fleet'"}
+{"level":"debug","message":"\n06 Jun 2023 13:44:00 - [ RESULT ] | QUERING [\n  {\n    id: 1,\n    username: 'admin',\n    password: 'admin',\n    level: 'administrator',\n    createdAt: null,\n    updatedAt: null\n  }\n]"}
+{"level":"debug","message":"\n06 Jun 2023 13:47:37 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 Jun 2023 13:47:37 - [ W A K E   U P ] | RUN AT PATH: /api/pattern, PORT: 3002"}
+{"level":"debug","message":"\n06 Jun 2023 13:47:37 - [ DATABASE U P ] | STARTING 'db_fleet'"}
+{"level":"debug","message":"\n06 Jun 2023 13:48:11 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 Jun 2023 13:48:11 - [ W A K E   U P ] | RUN AT PATH: /api/pattern, PORT: 3002"}
+{"level":"debug","message":"\n06 Jun 2023 13:48:11 - [ DATABASE U P ] | STARTING 'db_fleet'"}
+{"level":"debug","message":"\n06 Jun 2023 13:48:40 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 Jun 2023 13:48:40 - [ W A K E   U P ] | RUN AT PATH: /api/pattern, PORT: 3002"}
+{"level":"debug","message":"\n06 Jun 2023 13:48:40 - [ DATABASE U P ] | STARTING 'db_fleet'"}
+{"level":"debug","message":"\n06 Jun 2023 13:49:20 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 Jun 2023 13:49:20 - [ W A K E   U P ] | RUN AT PATH: /api/pattern, PORT: 3002"}
+{"level":"debug","message":"\n06 Jun 2023 13:49:20 - [ DATABASE U P ] | STARTING 'db_fleet'"}
+{"level":"debug","message":"\n06 Jun 2023 13:54:45 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 Jun 2023 13:54:45 - [ W A K E   U P ] | RUN AT PATH: /api/pattern, PORT: 3002"}
+{"level":"debug","message":"\n06 Jun 2023 13:54:45 - [ DATABASE U P ] | STARTING 'db_fleet'"}
+{"level":"debug","message":"\n06 Jun 2023 13:55:07 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 Jun 2023 13:55:07 - [ W A K E   U P ] | RUN AT PATH: /api/pattern, PORT: 3002"}
+{"level":"debug","message":"\n06 Jun 2023 13:55:07 - [ DATABASE U P ] | STARTING 'db_fleet'"}
+{"level":"debug","message":"\n06 Jun 2023 14:10:22 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 Jun 2023 14:10:22 - [ W A K E   U P ] | RUN AT PATH: /api/pattern, PORT: 3002"}
+{"level":"debug","message":"\n06 Jun 2023 14:10:22 - [ DATABASE U P ] | STARTING 'db_fleet'"}
+{"level":"debug","message":"\n06 Jun 2023 14:11:08 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 Jun 2023 14:11:08 - [ W A K E   U P ] | RUN AT PATH: /api/pattern, PORT: 3002"}
+{"level":"debug","message":"\n06 Jun 2023 14:11:08 - [ DATABASE U P ] | STARTING 'db_fleet'"}
+{"level":"debug","message":"\n06 Jun 2023 14:13:11 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 Jun 2023 14:13:11 - [ W A K E   U P ] | RUN AT PATH: /api/pattern, PORT: 3002"}
+{"level":"debug","message":"\n06 Jun 2023 14:13:11 - [ DATABASE U P ] | STARTING 'db_fleet'"}
+{"level":"debug","message":"\n06 Jun 2023 14:13:16 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 Jun 2023 14:13:16 - [ W A K E   U P ] | RUN AT PATH: /api/pattern, PORT: 3002"}
+{"level":"debug","message":"\n06 Jun 2023 14:13:16 - [ DATABASE U P ] | STARTING 'db_fleet'"}
+{"level":"debug","message":"\n06 Jun 2023 14:35:50 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 Jun 2023 14:35:50 - [ W A K E   U P ] | RUN AT PATH: /api/pattern, PORT: 3002"}
+{"level":"debug","message":"\n06 Jun 2023 14:35:50 - [ DATABASE U P ] | STARTING 'db_fleet'"}
+{"level":"debug","message":"\n06 Jun 2023 14:38:02 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 Jun 2023 14:38:02 - [ W A K E   U P ] | RUN AT PATH: /api/pattern, PORT: 3002"}
+{"level":"debug","message":"\n06 Jun 2023 14:38:02 - [ DATABASE U P ] | STARTING 'db_fleet'"}
+{"date":"Tue Jun 06 2023 16:09:46 GMT+0700 (Western Indonesia Time)","error":{},"exception":true,"level":"error","message":"uncaughtException: Unexpected token '{'\nD:\\Mine\\Fleet\\API\\Pattern - MVC\\controllers\\device.js:125\n        rabbit.SendMessage(req_type,reply){\n                                          ^\n\nSyntaxError: Unexpected token '{'\n    at wrapSafe (internal/modules/cjs/loader.js:979:16)\n    at Module._compile (internal/modules/cjs/loader.js:1027:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)\n    at Module.load (internal/modules/cjs/loader.js:928:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:769:14)\n    at Module.require (internal/modules/cjs/loader.js:952:19)\n    at require (internal/modules/cjs/helpers.js:88:18)\n    at Object.<anonymous> (D:\\Mine\\Fleet\\API\\Pattern - MVC\\routes\\index.js:6:15)\n    at Module._compile (internal/modules/cjs/loader.js:1063:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)","os":{"loadavg":[0,0,0],"uptime":77811},"process":{"argv":["C:\\Program Files\\nodejs\\node.exe","D:\\Mine\\Fleet\\API\\Pattern - MVC\\index.js"],"cwd":"D:\\Mine\\Fleet\\API\\Pattern - MVC","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":338626,"external":1868962,"heapTotal":32559104,"heapUsed":19134144,"rss":55513088},"pid":14968,"uid":null,"version":"v14.16.1"},"stack":"D:\\Mine\\Fleet\\API\\Pattern - MVC\\controllers\\device.js:125\n        rabbit.SendMessage(req_type,reply){\n                                          ^\n\nSyntaxError: Unexpected token '{'\n    at wrapSafe (internal/modules/cjs/loader.js:979:16)\n    at Module._compile (internal/modules/cjs/loader.js:1027:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)\n    at Module.load (internal/modules/cjs/loader.js:928:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:769:14)\n    at Module.require (internal/modules/cjs/loader.js:952:19)\n    at require (internal/modules/cjs/helpers.js:88:18)\n    at Object.<anonymous> (D:\\Mine\\Fleet\\API\\Pattern - MVC\\routes\\index.js:6:15)\n    at Module._compile (internal/modules/cjs/loader.js:1063:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)","trace":[{"column":16,"file":"internal/modules/cjs/loader.js","function":"wrapSafe","line":979,"method":null,"native":false},{"column":27,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1027,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1092,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":928,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":769,"method":"_load","native":false},{"column":19,"file":"internal/modules/cjs/loader.js","function":"Module.require","line":952,"method":"require","native":false},{"column":18,"file":"internal/modules/cjs/helpers.js","function":"require","line":88,"method":null,"native":false},{"column":15,"file":"D:\\Mine\\Fleet\\API\\Pattern - MVC\\routes\\index.js","function":null,"line":6,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1063,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1092,"method":".js","native":false}]}
+{"date":"Tue Jun 06 2023 16:10:05 GMT+0700 (Western Indonesia Time)","error":{},"exception":true,"level":"error","message":"uncaughtException: Unexpected token '{'\nD:\\Mine\\Fleet\\API\\Pattern - MVC\\controllers\\device.js:125\n        rabbit.SendMessage(req_type,reply){\n                                          ^\n\nSyntaxError: Unexpected token '{'\n    at wrapSafe (internal/modules/cjs/loader.js:979:16)\n    at Module._compile (internal/modules/cjs/loader.js:1027:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)\n    at Module.load (internal/modules/cjs/loader.js:928:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:769:14)\n    at Module.require (internal/modules/cjs/loader.js:952:19)\n    at require (internal/modules/cjs/helpers.js:88:18)\n    at Object.<anonymous> (D:\\Mine\\Fleet\\API\\Pattern - MVC\\routes\\index.js:6:15)\n    at Module._compile (internal/modules/cjs/loader.js:1063:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)","os":{"loadavg":[0,0,0],"uptime":77829},"process":{"argv":["C:\\Program Files\\nodejs\\node.exe","D:\\Mine\\Fleet\\API\\Pattern - MVC\\index.js"],"cwd":"D:\\Mine\\Fleet\\API\\Pattern - MVC","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":344947,"external":1875283,"heapTotal":32559104,"heapUsed":19256576,"rss":56029184},"pid":1756,"uid":null,"version":"v14.16.1"},"stack":"D:\\Mine\\Fleet\\API\\Pattern - MVC\\controllers\\device.js:125\n        rabbit.SendMessage(req_type,reply){\n                                          ^\n\nSyntaxError: Unexpected token '{'\n    at wrapSafe (internal/modules/cjs/loader.js:979:16)\n    at Module._compile (internal/modules/cjs/loader.js:1027:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)\n    at Module.load (internal/modules/cjs/loader.js:928:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:769:14)\n    at Module.require (internal/modules/cjs/loader.js:952:19)\n    at require (internal/modules/cjs/helpers.js:88:18)\n    at Object.<anonymous> (D:\\Mine\\Fleet\\API\\Pattern - MVC\\routes\\index.js:6:15)\n    at Module._compile (internal/modules/cjs/loader.js:1063:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)","trace":[{"column":16,"file":"internal/modules/cjs/loader.js","function":"wrapSafe","line":979,"method":null,"native":false},{"column":27,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1027,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1092,"method":".js","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":928,"method":"load","native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._load","line":769,"method":"_load","native":false},{"column":19,"file":"internal/modules/cjs/loader.js","function":"Module.require","line":952,"method":"require","native":false},{"column":18,"file":"internal/modules/cjs/helpers.js","function":"require","line":88,"method":null,"native":false},{"column":15,"file":"D:\\Mine\\Fleet\\API\\Pattern - MVC\\routes\\index.js","function":null,"line":6,"method":null,"native":false},{"column":30,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1063,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1092,"method":".js","native":false}]}
+{"level":"debug","message":"\n06 Jun 2023 16:13:32 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 Jun 2023 16:13:32 - [ W A K E   U P ] | RUN AT PATH: /api/pattern, PORT: 3002"}
+{"level":"debug","message":"\n06 Jun 2023 16:13:32 - [ DATABASE U P ] | STARTING 'db_fleet'"}
+{"level":"debug","message":"\n06 Jun 2023 16:13:57 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 Jun 2023 16:13:57 - [ W A K E   U P ] | RUN AT PATH: /api/pattern, PORT: 3002"}
+{"level":"debug","message":"\n06 Jun 2023 16:13:57 - [ DATABASE U P ] | STARTING 'db_fleet'"}
+{"level":"debug","message":"\n06 Jun 2023 16:19:23 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 Jun 2023 16:19:23 - [ W A K E   U P ] | RUN AT PATH: /api/pattern, PORT: 3002"}
+{"level":"debug","message":"\n06 Jun 2023 16:19:23 - [ DATABASE U P ] | STARTING 'db_fleet'"}
+{"level":"debug","message":"\n06 Jun 2023 16:32:31 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 Jun 2023 16:32:31 - [ W A K E   U P ] | RUN AT PATH: /api/pattern, PORT: 3002"}
+{"level":"debug","message":"\n06 Jun 2023 16:32:31 - [ DATABASE U P ] | STARTING 'db_fleet'"}
+{"level":"debug","message":"\n06 Jun 2023 16:35:44 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 Jun 2023 16:35:44 - [ W A K E   U P ] | RUN AT PATH: /api/pattern, PORT: 3002"}
+{"level":"debug","message":"\n06 Jun 2023 16:35:44 - [ DATABASE U P ] | STARTING 'db_fleet'"}
+{"level":"debug","message":"\n06 Jun 2023 16:36:29 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 Jun 2023 16:36:29 - [ W A K E   U P ] | RUN AT PATH: /api/pattern, PORT: 3002"}
+{"level":"debug","message":"\n06 Jun 2023 16:36:29 - [ DATABASE U P ] | STARTING 'db_fleet'"}
+{"level":"debug","message":"\n06 Jun 2023 16:36:58 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 Jun 2023 16:36:58 - [ W A K E   U P ] | RUN AT PATH: /api/pattern, PORT: 3002"}
+{"level":"debug","message":"\n06 Jun 2023 16:36:58 - [ DATABASE U P ] | STARTING 'db_fleet'"}
+{"level":"debug","message":"\n06 Jun 2023 16:37:40 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 Jun 2023 16:37:40 - [ W A K E   U P ] | RUN AT PATH: /api/pattern, PORT: 3002"}
+{"level":"debug","message":"\n06 Jun 2023 16:37:40 - [ DATABASE U P ] | STARTING 'db_fleet'"}
+{"level":"debug","message":"\n06 Jun 2023 16:38:51 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 Jun 2023 16:38:51 - [ W A K E   U P ] | RUN AT PATH: /api/pattern, PORT: 3002"}
+{"level":"debug","message":"\n06 Jun 2023 16:38:51 - [ DATABASE U P ] | STARTING 'db_fleet'"}
+{"level":"debug","message":"\n06 Jun 2023 16:40:00 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 Jun 2023 16:40:00 - [ W A K E   U P ] | RUN AT PATH: /api/pattern, PORT: 3002"}
+{"level":"debug","message":"\n06 Jun 2023 16:40:00 - [ DATABASE U P ] | STARTING 'db_fleet'"}
+{"level":"debug","message":"\n06 Jun 2023 16:41:03 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 Jun 2023 16:41:03 - [ W A K E   U P ] | RUN AT PATH: /api/pattern, PORT: 3002"}
+{"level":"debug","message":"\n06 Jun 2023 16:41:03 - [ DATABASE U P ] | STARTING 'db_fleet'"}
+{"level":"debug","message":"\n06 Jun 2023 16:42:11 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 Jun 2023 16:42:11 - [ W A K E   U P ] | RUN AT PATH: /api/pattern, PORT: 3002"}
+{"level":"debug","message":"\n06 Jun 2023 16:42:11 - [ DATABASE U P ] | STARTING 'db_fleet'"}
+{"level":"debug","message":"\n06 Jun 2023 16:42:24 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 Jun 2023 16:42:24 - [ W A K E   U P ] | RUN AT PATH: /api/pattern, PORT: 3002"}
+{"level":"debug","message":"\n06 Jun 2023 16:42:24 - [ DATABASE U P ] | STARTING 'db_fleet'"}
+{"level":"debug","message":"\n06 Jun 2023 16:43:00 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 Jun 2023 16:43:00 - [ W A K E   U P ] | RUN AT PATH: /api/pattern, PORT: 3002"}
+{"level":"debug","message":"\n06 Jun 2023 16:43:00 - [ DATABASE U P ] | STARTING 'db_fleet'"}
+{"level":"debug","message":"\n06 Jun 2023 16:43:54 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 Jun 2023 16:43:54 - [ W A K E   U P ] | RUN AT PATH: /api/pattern, PORT: 3002"}
+{"level":"debug","message":"\n06 Jun 2023 16:43:54 - [ DATABASE U P ] | STARTING 'db_fleet'"}
+{"level":"debug","message":"\n06 Jun 2023 16:44:44 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 Jun 2023 16:44:44 - [ W A K E   U P ] | RUN AT PATH: /api/pattern, PORT: 3002"}
+{"level":"debug","message":"\n06 Jun 2023 16:44:44 - [ DATABASE U P ] | STARTING 'db_fleet'"}
+{"level":"debug","message":"\n06 Jun 2023 16:47:14 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 Jun 2023 16:47:14 - [ W A K E   U P ] | RUN AT PATH: /api/pattern, PORT: 3002"}
+{"level":"debug","message":"\n06 Jun 2023 16:47:14 - [ DATABASE U P ] | STARTING 'db_fleet'"}
+{"level":"debug","message":"\n06 Jun 2023 16:48:02 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 Jun 2023 16:48:02 - [ W A K E   U P ] | RUN AT PATH: /api/pattern, PORT: 3002"}
+{"level":"debug","message":"\n06 Jun 2023 16:48:02 - [ DATABASE U P ] | STARTING 'db_fleet'"}
+{"level":"debug","message":"\n06 Jun 2023 16:49:19 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 Jun 2023 16:49:19 - [ W A K E   U P ] | RUN AT PATH: /api/pattern, PORT: 3002"}
+{"level":"debug","message":"\n06 Jun 2023 16:49:19 - [ DATABASE U P ] | STARTING 'db_fleet'"}
+{"level":"debug","message":"\n06 Jun 2023 16:49:32 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 Jun 2023 16:49:32 - [ W A K E   U P ] | RUN AT PATH: /api/pattern, PORT: 3002"}
+{"level":"debug","message":"\n06 Jun 2023 16:49:32 - [ DATABASE U P ] | STARTING 'db_fleet'"}
+{"level":"debug","message":"\n06 Jun 2023 16:50:42 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 Jun 2023 16:50:42 - [ W A K E   U P ] | RUN AT PATH: /api/pattern, PORT: 3002"}
+{"level":"debug","message":"\n06 Jun 2023 16:50:42 - [ DATABASE U P ] | STARTING 'db_fleet'"}
+{"level":"debug","message":"\n06 Jun 2023 16:50:59 - [ W A K E   U P ] | STARTING 'PATERN CONTROLLER ADAPTER'"}
+{"level":"debug","message":"06 Jun 2023 16:50:59 - [ W A K E   U P ] | RUN AT PATH: /api/pattern, PORT: 3002"}
+{"level":"debug","message":"\n06 Jun 2023 16:50:59 - [ DATABASE U P ] | STARTING 'db_fleet'"}
