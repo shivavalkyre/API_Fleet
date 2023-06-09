@@ -147,9 +147,9 @@ var LogDevices = async function (req,res){
            axios.get (url_detail,config)
            .then (function (response){
                 var result = response.data.result
-                console.log(result)
+                // console.log(result)
            }).catch(function (err){
-
+                console.log(err)
            })
        })
        .catch(function (err) {
